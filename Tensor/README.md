@@ -1,3 +1,23 @@
+- [Tensors](#tensors)
+  * [**Introduction**](#--introduction--)
+  * [About shapes](#about-shapes)
+  * [Indexing](#indexing)
+    + [Single-axis indexing](#single-axis-indexing)
+    + [Multi-axis indexing](#multi-axis-indexing)
+      - [2-axis tensor example:](#2-axis-tensor-example-)
+      - [3-axis tensor example:](#3-axis-tensor-example-)
+  * [Manipulating Shapes](#manipulating-shapes)
+  * [More on `DTypes`](#more-on--dtypes-)
+  * [Broadcasting](#broadcasting)
+  * [tf.convert_to_tensor](#tfconvert-to-tensor)
+  * [Ragged Tensors](#ragged-tensors)
+  * [String tensors](#string-tensors)
+    + [tf.string.to_number](#tfstringto-number)
+  * [Sparse tensors](#sparse-tensors)
+- [Introduction to tensor slicing](#introduction-to-tensor-slicing)
+  * [Extract tensor slices](#extract-tensor-slices)
+  * [Insert data into tensors](#insert-data-into-tensors)
+
 # Tensors 
 
 ## **Introduction**
