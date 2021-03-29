@@ -1,3 +1,5 @@
+# TABLE OF CONTENTS:
+
 - [Tensors](#tensors)
   * [**Introduction**](#--introduction--)
   * [About shapes](#about-shapes)
